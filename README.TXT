@@ -1,1 +1,0 @@
-Run Guiapp2.java for main programme. 
